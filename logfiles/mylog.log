@@ -1,0 +1,40 @@
+[2023-08-07 21:28:38,421] shaurya.jaiswal-MacBook-Pro/INFO/locust.main: Run time limit set to 10 seconds
+[2023-08-07 21:28:38,421] shaurya.jaiswal-MacBook-Pro/INFO/locust.main: Starting Locust 2.15.1
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Ramping to {"MyUser": 1} (1 total users)
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Spawning additional {"MyUser": 1} ({"MyUser": 0} already running)...
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 1 users spawned
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: All users of class MyUser spawned
+[2023-08-07 21:28:38,422] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 0 users have been stopped, 1 still running
+[2023-08-07 21:28:39,423] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Ramping to {"MyUser": 2} (2 total users)
+[2023-08-07 21:28:39,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Spawning additional {"MyUser": 1} ({"MyUser": 1} already running)...
+[2023-08-07 21:28:39,425] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 2 users spawned
+[2023-08-07 21:28:39,425] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: All users of class MyUser spawned
+[2023-08-07 21:28:39,425] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 0 users have been stopped, 2 still running
+[2023-08-07 21:28:40,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Ramping to {"MyUser": 3} (3 total users)
+[2023-08-07 21:28:40,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Spawning additional {"MyUser": 1} ({"MyUser": 2} already running)...
+[2023-08-07 21:28:40,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 3 users spawned
+[2023-08-07 21:28:40,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: All users of class MyUser spawned
+[2023-08-07 21:28:40,424] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 0 users have been stopped, 3 still running
+[2023-08-07 21:28:41,429] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Ramping to {"MyUser": 4} (4 total users)
+[2023-08-07 21:28:41,429] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Spawning additional {"MyUser": 1} ({"MyUser": 3} already running)...
+[2023-08-07 21:28:41,429] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 4 users spawned
+[2023-08-07 21:28:41,429] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: All users of class MyUser spawned
+[2023-08-07 21:28:41,429] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 0 users have been stopped, 4 still running
+[2023-08-07 21:28:42,430] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Ramping to {"MyUser": 5} (5 total users)
+[2023-08-07 21:28:42,431] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Spawning additional {"MyUser": 1} ({"MyUser": 4} already running)...
+[2023-08-07 21:28:42,432] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 5 users spawned
+[2023-08-07 21:28:42,432] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: All users of class MyUser spawned
+[2023-08-07 21:28:42,432] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 0 users have been stopped, 5 still running
+[2023-08-07 21:28:42,432] shaurya.jaiswal-MacBook-Pro/INFO/locust.runners: All users spawned: {"MyUser": 5} (5 total users)
+[2023-08-07 21:28:48,303] shaurya.jaiswal-MacBook-Pro/INFO/locust.main: --run-time limit reached, shutting down
+[2023-08-07 21:28:48,303] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping all users
+[2023-08-07 21:28:48,303] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping Greenlet-0
+[2023-08-07 21:28:48,303] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping Greenlet-1
+[2023-08-07 21:28:48,303] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping Greenlet-2
+[2023-08-07 21:28:48,304] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping Greenlet-3
+[2023-08-07 21:28:48,304] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: Stopping Greenlet-4
+[2023-08-07 21:28:48,304] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.runners: 5 users have been stopped, 0 still running
+[2023-08-07 21:28:48,304] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.main: Running teardowns...
+[2023-08-07 21:28:48,305] shaurya.jaiswal-MacBook-Pro/INFO/locust.main: Shutting down (exit code 0)
+[2023-08-07 21:28:48,305] shaurya.jaiswal-MacBook-Pro/DEBUG/locust.main: Cleaning up runner...
