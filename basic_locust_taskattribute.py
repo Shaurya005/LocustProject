@@ -13,7 +13,7 @@ class MyUser(User):
     # There is no weightage, so my task is called randomly again. In here what user is doing?
     # User is coming and choosing any task out of this list, performing the task, waiting for wait_time and again in second iteration, user is choosing one of the task from this list.
 
-    tasks = [add_cart, view_product]
+    # tasks = [add_cart, view_product]
 
     # In this case, how do I give weightage? How do I define the execution ratio?
     #
